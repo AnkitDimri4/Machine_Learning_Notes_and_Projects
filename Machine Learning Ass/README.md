@@ -1,7 +1,7 @@
 
 ---
 
-# Python Machine Learning & Data Analysis Project
+# Machine Learning Project
 
  This collection is a comprehensive guide to key Machine Learning concepts, techniques, and practical implementations. It is organized into modules, each focusing on different aspects of ML, from foundational principles to advanced algorithms and projects.
 
